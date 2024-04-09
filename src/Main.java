@@ -63,7 +63,7 @@ public class Main {
 
                 case 3:
                     System.out.println("1. NOVA ENTRADA");
-                    System.out.println("2. EXCLUIR ENTRADA");
+                    System.out.println("2. EXCLUIR ENTRAD");
                     break;
                 default:
                     System.out.println("=== SAINDO DO SISTEMA ===");
